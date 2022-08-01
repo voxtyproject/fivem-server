@@ -1,6 +1,6 @@
 FROM alpine
 
-ENV FIVEM_ARTIFACT="https://runtime.fivem.net/artifacts/fivem/build_proot_linux/master/5762-eb86744b45fff4b1bfa0d2dafd2027f6d31ca1f8/fx.tar.xz"
+ENV FIVEM_ARTIFACT="https://runtime.fivem.net/artifacts/fivem/build_proot_linux/master/5774-7dd991582b990411930c2a452265c9b2144ae576/fx.tar.xz"
 
 ENV SERVER_DATA="/usr/share/voxtyproject/fivem-server"
 
